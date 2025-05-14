@@ -1,0 +1,1101 @@
+{
+  "booking_date": "2025-05-14 16:46:25",
+  "travel_date": "2025-06-25",
+  "data": {
+    "best_flights": [
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 19:30"
+            },
+            "arrival_airport": {
+              "name": "Hamad International Airport",
+              "id": "DOH",
+              "time": "2025-06-25 22:25"
+            },
+            "duration": 415,
+            "airplane": "Boeing 787",
+            "airline": "Qatar Airways",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+            "travel_class": "Business Class",
+            "flight_number": "QR 977",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Individual suite",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1227 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Hamad International Airport",
+              "id": "DOH",
+              "time": "2025-06-26 01:50"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-26 09:00"
+            },
+            "duration": 850,
+            "airplane": "Boeing 777",
+            "airline": "Qatar Airways",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+            "travel_class": "Business Class",
+            "flight_number": "QR 703",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Individual suite",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 2931 kg"
+            ],
+            "overnight": true,
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 205,
+            "name": "Hamad International Airport",
+            "id": "DOH"
+          }
+        ],
+        "total_duration": 1470,
+        "carbon_emissions": {
+          "this_flight": 4159000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": 4
+        },
+        "price": 2779,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3RSVWprM04zeFJVamN3TXhvTENQWDZFQkFDR2dOVlUwUTRISEQxK2hBPSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIkRPSCIsbnVsbCwiUVIiLCI5NzciXSxbIkRPSCIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIlFSIiwiNzAzIl1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 23:20"
+            },
+            "arrival_airport": {
+              "name": "Narita International Airport",
+              "id": "NRT",
+              "time": "2025-06-26 06:25"
+            },
+            "duration": 305,
+            "airplane": "Boeing 767",
+            "airline": "JAL",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+            "travel_class": "Business Class",
+            "flight_number": "JL 752",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1537 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Haneda Airport",
+              "id": "HND",
+              "time": "2025-06-26 11:05"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-26 11:05"
+            },
+            "duration": 780,
+            "airplane": "Airbus A350",
+            "airline": "JAL",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+            "travel_class": "Business Class",
+            "flight_number": "JL 6",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Individual suite",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1862 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 280,
+            "name": "Haneda Airport",
+            "id": "NRT"
+          }
+        ],
+        "total_duration": 1365,
+        "carbon_emissions": {
+          "this_flight": 3400000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": -15
+        },
+        "price": 2848,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ2xLVERjMU1ueEtURFlhQ3dpaHNCRVFBaG9EVlZORU9CeHdvYkFSIixbWyJIQU4iLCIyMDI1LTA2LTI1IiwiTlJUIixudWxsLCJKTCIsIjc1MiJdLFsiSE5EIiwiMjAyNS0wNi0yNiIsIkpGSyIsbnVsbCwiSkwiLCI2Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 23:10"
+            },
+            "arrival_airport": {
+              "name": "Incheon International Airport",
+              "id": "ICN",
+              "time": "2025-06-26 05:25"
+            },
+            "duration": 255,
+            "airplane": "Boeing 777",
+            "airline": "Korean Air",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+            "travel_class": "Business Class",
+            "flight_number": "KE 454",
+            "ticket_also_sold_by": [
+              "Delta"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1121 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Incheon International Airport",
+              "id": "ICN",
+              "time": "2025-06-26 10:00"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-26 11:10"
+            },
+            "duration": 850,
+            "airplane": "Airbus A380",
+            "airline": "Korean Air",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+            "travel_class": "Business Class",
+            "flight_number": "KE 81",
+            "ticket_also_sold_by": [
+              "Delta"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 3370 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 275,
+            "name": "Incheon International Airport",
+            "id": "ICN"
+          }
+        ],
+        "total_duration": 1380,
+        "carbon_emissions": {
+          "this_flight": 4492000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": 13
+        },
+        "price": 2992,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3BMUlRRMU5IeExSVGd4R2dzSSthQVNFQUlhQTFWVFJEZ2NjUG1nRWc9PSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIklDTiIsbnVsbCwiS0UiLCI0NTQiXSxbIklDTiIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIktFIiwiODEiXV1d"
+      }
+    ],
+    "other_flights": [
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 08:45"
+            },
+            "arrival_airport": {
+              "name": "Hamad International Airport",
+              "id": "DOH",
+              "time": "2025-06-25 11:40"
+            },
+            "duration": 415,
+            "airplane": "Boeing 787",
+            "airline": "Qatar Airways",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+            "travel_class": "Business Class",
+            "flight_number": "QR 983",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Individual suite",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1227 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Hamad International Airport",
+              "id": "DOH",
+              "time": "2025-06-25 15:20"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-25 22:30"
+            },
+            "duration": 850,
+            "airplane": "Airbus A350",
+            "airline": "Qatar Airways",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+            "travel_class": "Business Class",
+            "flight_number": "QR 705",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Individual suite",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 2636 kg"
+            ]
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 220,
+            "name": "Hamad International Airport",
+            "id": "DOH"
+          }
+        ],
+        "total_duration": 1485,
+        "carbon_emissions": {
+          "this_flight": 3864000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": -3
+        },
+        "price": 2779,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/QR.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3RSVWprNE0zeFJVamN3TlJvTENQWDZFQkFDR2dOVlUwUTRISEQxK2hBPSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIkRPSCIsbnVsbCwiUVIiLCI5ODMiXSxbIkRPSCIsIjIwMjUtMDYtMjUiLCJKRksiLG51bGwsIlFSIiwiNzA1Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 23:20"
+            },
+            "arrival_airport": {
+              "name": "Narita International Airport",
+              "id": "NRT",
+              "time": "2025-06-26 06:25"
+            },
+            "duration": 305,
+            "airplane": "Boeing 767",
+            "airline": "JAL",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+            "travel_class": "Business Class",
+            "flight_number": "JL 752",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1537 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Narita International Airport",
+              "id": "NRT",
+              "time": "2025-06-26 18:15"
+            },
+            "arrival_airport": {
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD",
+              "time": "2025-06-26 16:00"
+            },
+            "duration": 705,
+            "airplane": "Boeing 777",
+            "airline": "JAL",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+            "travel_class": "Business Class",
+            "flight_number": "JL 56",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 2033 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD",
+              "time": "2025-06-26 18:07"
+            },
+            "arrival_airport": {
+              "name": "LaGuardia Airport",
+              "id": "LGA",
+              "time": "2025-06-26 21:23"
+            },
+            "duration": 136,
+            "airplane": "Boeing 737",
+            "airline": "American",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+            "travel_class": "First Class",
+            "flight_number": "AA 774",
+            "extensions": [
+              "Standard recliner seat",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "Stream media to your device",
+              "Carbon emissions estimate: 162 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 710,
+            "name": "Narita International Airport",
+            "id": "NRT"
+          },
+          {
+            "duration": 127,
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD"
+          }
+        ],
+        "total_duration": 1983,
+        "carbon_emissions": {
+          "this_flight": 3733000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": -6
+        },
+        "price": 2846,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFaEJLVERjMU1ueEtURFUyZkVGQk56YzBHZ3NJb3E4UkVBSWFBMVZUUkRnY2NLS3ZFUT09IixbWyJIQU4iLCIyMDI1LTA2LTI1IiwiTlJUIixudWxsLCJKTCIsIjc1MiJdLFsiTlJUIiwiMjAyNS0wNi0yNiIsIk9SRCIsbnVsbCwiSkwiLCI1NiJdLFsiT1JEIiwiMjAyNS0wNi0yNiIsIkxHQSIsbnVsbCwiQUEiLCI3NzQiXV1d"
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 23:20"
+            },
+            "arrival_airport": {
+              "name": "Narita International Airport",
+              "id": "NRT",
+              "time": "2025-06-26 06:25"
+            },
+            "duration": 305,
+            "airplane": "Boeing 767",
+            "airline": "JAL",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+            "travel_class": "Business Class",
+            "flight_number": "JL 752",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1537 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Narita International Airport",
+              "id": "NRT",
+              "time": "2025-06-26 18:15"
+            },
+            "arrival_airport": {
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD",
+              "time": "2025-06-26 16:00"
+            },
+            "duration": 705,
+            "airplane": "Boeing 777",
+            "airline": "JAL",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/JL.png",
+            "travel_class": "Business Class",
+            "flight_number": "JL 56",
+            "ticket_also_sold_by": [
+              "American"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 2033 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD",
+              "time": "2025-06-26 19:24"
+            },
+            "arrival_airport": {
+              "name": "Newark Liberty International Airport",
+              "id": "EWR",
+              "time": "2025-06-26 22:39"
+            },
+            "duration": 135,
+            "airplane": "Boeing 737",
+            "airline": "American",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+            "travel_class": "First Class",
+            "flight_number": "AA 3253",
+            "extensions": [
+              "Standard recliner seat",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "Stream media to your device",
+              "Carbon emissions estimate: 158 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 710,
+            "name": "Narita International Airport",
+            "id": "NRT"
+          },
+          {
+            "duration": 204,
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD"
+          }
+        ],
+        "total_duration": 2059,
+        "carbon_emissions": {
+          "this_flight": 3729000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": -6
+        },
+        "price": 2846,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFaEZLVERjMU1ueEtURFUyZkVGQk16STFNeG9MQ0tLdkVSQUNHZ05WVTBRNEhIQ2lyeEU9IixbWyJIQU4iLCIyMDI1LTA2LTI1IiwiTlJUIixudWxsLCJKTCIsIjc1MiJdLFsiTlJUIiwiMjAyNS0wNi0yNiIsIk9SRCIsbnVsbCwiSkwiLCI1NiJdLFsiT1JEIiwiMjAyNS0wNi0yNiIsIkVXUiIsbnVsbCwiQUEiLCIzMjUzIl1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 23:35"
+            },
+            "arrival_airport": {
+              "name": "Narita International Airport",
+              "id": "NRT",
+              "time": "2025-06-26 06:45"
+            },
+            "duration": 310,
+            "airplane": "Boeing 787",
+            "airline": "ANA",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+            "travel_class": "Business Class",
+            "flight_number": "NH 898",
+            "ticket_also_sold_by": [
+              "United"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1178 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Narita International Airport",
+              "id": "NRT",
+              "time": "2025-06-26 17:00"
+            },
+            "arrival_airport": {
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD",
+              "time": "2025-06-26 14:55"
+            },
+            "duration": 715,
+            "airplane": "Boeing 777",
+            "airline": "ANA",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+            "travel_class": "Business Class",
+            "flight_number": "NH 12",
+            "ticket_also_sold_by": [
+              "United"
+            ],
+            "extensions": [
+              "Individual suite",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 2255 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Chicago O'Hare International Airport",
+              "id": "ORD",
+              "time": "2025-06-26 17:00"
+            },
+            "arrival_airport": {
+              "name": "LaGuardia Airport",
+              "id": "LGA",
+              "time": "2025-06-26 20:20"
+            },
+            "duration": 140,
+            "airplane": "Boeing 737",
+            "airline": "United",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+            "travel_class": "Business Class",
+            "flight_number": "UA 2048",
+            "ticket_also_sold_by": [
+              "ANA"
+            ],
+            "extensions": [
+              "Standard recliner seat",
+              "Wi-Fi for a fee",
+              "In-seat power outlet",
+              "Stream media to your device",
+              "Carbon emissions estimate: 167 kg"
+            ]
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 615,
+            "name": "Narita International Airport",
+            "id": "NRT"
+          },
+          {
+            "duration": 125,
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD"
+          }
+        ],
+        "total_duration": 1905,
+        "carbon_emissions": {
+          "this_flight": 3601000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": -10
+        },
+        "price": 2951,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFaEZPU0RnNU9IeE9TREV5ZkZWQk1qQTBPQm9MQ0pXQkVoQUNHZ05WVTBRNEhIQ1ZnUkk9IixbWyJIQU4iLCIyMDI1LTA2LTI1IiwiTlJUIixudWxsLCJOSCIsIjg5OCJdLFsiTlJUIiwiMjAyNS0wNi0yNiIsIk9SRCIsbnVsbCwiTkgiLCIxMiJdLFsiT1JEIiwiMjAyNS0wNi0yNiIsIkxHQSIsbnVsbCwiVUEiLCIyMDQ4Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 23:35"
+            },
+            "arrival_airport": {
+              "name": "Narita International Airport",
+              "id": "NRT",
+              "time": "2025-06-26 06:45"
+            },
+            "duration": 310,
+            "airplane": "Boeing 787",
+            "airline": "ANA",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+            "travel_class": "Business Class",
+            "flight_number": "NH 898",
+            "ticket_also_sold_by": [
+              "United"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1178 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Haneda Airport",
+              "id": "HND",
+              "time": "2025-06-26 10:50"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-26 11:00"
+            },
+            "duration": 790,
+            "airplane": "Boeing 777",
+            "airline": "ANA",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+            "travel_class": "Business Class",
+            "flight_number": "NH 110",
+            "ticket_also_sold_by": [
+              "United"
+            ],
+            "extensions": [
+              "Individual suite",
+              "Free Wi-Fi",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 2226 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 245,
+            "name": "Haneda Airport",
+            "id": "NRT"
+          }
+        ],
+        "total_duration": 1345,
+        "carbon_emissions": {
+          "this_flight": 3404000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": -15
+        },
+        "price": 2952,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NH.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3RPU0RnNU9IeE9TREV4TUJvTENKU0NFaEFDR2dOVlUwUTRISENVZ2hJPSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIk5SVCIsbnVsbCwiTkgiLCI4OTgiXSxbIkhORCIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIk5IIiwiMTEwIl1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 23:30"
+            },
+            "arrival_airport": {
+              "name": "Incheon International Airport",
+              "id": "ICN",
+              "time": "2025-06-26 05:50"
+            },
+            "duration": 260,
+            "airplane": "Airbus A330",
+            "airline": "Asiana Airlines",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+            "travel_class": "Business Class",
+            "flight_number": "OZ 734",
+            "extensions": [
+              "Angled flat seat",
+              "In-seat power outlet",
+              "Carbon emissions estimate: 845 kg"
+            ],
+            "overnight": true,
+            "often_delayed_by_over_30_min": true
+          },
+          {
+            "departure_airport": {
+              "name": "Incheon International Airport",
+              "id": "ICN",
+              "time": "2025-06-26 10:00"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-26 11:10"
+            },
+            "duration": 850,
+            "airplane": "Airbus A380",
+            "airline": "Korean Air",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+            "travel_class": "Business Class",
+            "flight_number": "KE 81",
+            "extensions": [
+              "Lie flat seat",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 3370 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 250,
+            "name": "Incheon International Airport",
+            "id": "ICN"
+          }
+        ],
+        "total_duration": 1360,
+        "carbon_emissions": {
+          "this_flight": 4216000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": 6
+        },
+        "price": 2994,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3BQV2pjek5IeExSVGd4R2dzSXNxSVNFQUlhQTFWVFJEZ2NjTEtpRWc9PSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIklDTiIsbnVsbCwiT1oiLCI3MzQiXSxbIklDTiIsIjIwMjUtMDYtMjYiLCJKRksiLG51bGwsIktFIiwiODEiXV1d"
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 13:25"
+            },
+            "arrival_airport": {
+              "name": "Incheon International Airport",
+              "id": "ICN",
+              "time": "2025-06-25 19:35"
+            },
+            "duration": 250,
+            "airplane": "Airbus A350",
+            "airline": "Asiana Airlines",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+            "travel_class": "Business Class",
+            "flight_number": "OZ 730",
+            "extensions": [
+              "Lie flat seat",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 901 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Incheon International Airport",
+              "id": "ICN",
+              "time": "2025-06-25 21:05"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-25 23:00"
+            },
+            "duration": 895,
+            "airplane": "Airbus A380",
+            "airline": "Asiana Airlines",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+            "travel_class": "Business Class",
+            "flight_number": "OZ 224",
+            "ticket_also_sold_by": [
+              "United"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 3294 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 90,
+            "name": "Incheon International Airport",
+            "id": "ICN"
+          }
+        ],
+        "total_duration": 1235,
+        "carbon_emissions": {
+          "this_flight": 4196000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": 5
+        },
+        "price": 3132,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/OZ.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3RQV2pjek1IeFBXakl5TkJvTENLU09FeEFDR2dOVlUwUTRISENramhNPSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIklDTiIsbnVsbCwiT1oiLCI3MzAiXSxbIklDTiIsIjIwMjUtMDYtMjUiLCJKRksiLG51bGwsIk9aIiwiMjI0Il1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 01:30"
+            },
+            "arrival_airport": {
+              "name": "Dubai International Airport",
+              "id": "DXB",
+              "time": "2025-06-25 05:05"
+            },
+            "duration": 395,
+            "airplane": "Boeing 777",
+            "airline": "Emirates",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+            "travel_class": "Business Class",
+            "flight_number": "EK 395",
+            "extensions": [
+              "Angled flat seat",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 1408 kg"
+            ],
+            "overnight": true
+          },
+          {
+            "departure_airport": {
+              "name": "Dubai International Airport",
+              "id": "DXB",
+              "time": "2025-06-25 08:30"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-25 14:25"
+            },
+            "duration": 835,
+            "airplane": "Airbus A380",
+            "airline": "Emirates",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+            "travel_class": "Business Class",
+            "flight_number": "EK 201",
+            "extensions": [
+              "Lie flat seat",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 3252 kg"
+            ],
+            "often_delayed_by_over_30_min": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 205,
+            "name": "Dubai International Airport",
+            "id": "DXB"
+          }
+        ],
+        "total_duration": 1435,
+        "carbon_emissions": {
+          "this_flight": 4661000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": 17
+        },
+        "price": 3315,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/EK.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3RGU3pNNU5YeEZTekl3TVJvTENLcWRGQkFDR2dOVlUwUTRISENxblJRPSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIkRYQiIsbnVsbCwiRUsiLCIzOTUiXSxbIkRYQiIsIjIwMjUtMDYtMjUiLCJKRksiLG51bGwsIkVLIiwiMjAxIl1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 08:15"
+            },
+            "arrival_airport": {
+              "name": "Haneda Airport",
+              "id": "HND",
+              "time": "2025-06-25 15:05"
+            },
+            "duration": 290,
+            "airplane": "Boeing 787",
+            "airline": "Vietnam Airlines",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VN.png",
+            "travel_class": "Business Class",
+            "flight_number": "VN 384",
+            "ticket_also_sold_by": [
+              "ANA"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 951 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Haneda Airport",
+              "id": "HND",
+              "time": "2025-06-25 17:45"
+            },
+            "arrival_airport": {
+              "name": "Newark Liberty International Airport",
+              "id": "EWR",
+              "time": "2025-06-25 17:50"
+            },
+            "duration": 785,
+            "airplane": "Boeing 777",
+            "airline": "United",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+            "travel_class": "Business Class",
+            "flight_number": "UA 130",
+            "ticket_also_sold_by": [
+              "ANA"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "Wi-Fi for a fee",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 2702 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 160,
+            "name": "Haneda Airport",
+            "id": "HND"
+          }
+        ],
+        "total_duration": 1235,
+        "carbon_emissions": {
+          "this_flight": 3655000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": -8
+        },
+        "price": 4313,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3RXVGpNNE5IeFZRVEV6TUJvTENKR3BHaEFDR2dOVlUwUTRISENScVJvPSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIkhORCIsbnVsbCwiVk4iLCIzODQiXSxbIkhORCIsIjIwMjUtMDYtMjUiLCJFV1IiLG51bGwsIlVBIiwiMTMwIl1dXQ=="
+      },
+      {
+        "flights": [
+          {
+            "departure_airport": {
+              "name": "Noi Bai International Airport",
+              "id": "HAN",
+              "time": "2025-06-25 10:30"
+            },
+            "arrival_airport": {
+              "name": "Incheon International Airport",
+              "id": "ICN",
+              "time": "2025-06-25 16:35"
+            },
+            "duration": 245,
+            "airplane": "Airbus A350",
+            "airline": "Vietnam Airlines",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/VN.png",
+            "travel_class": "Business Class",
+            "flight_number": "VN 414",
+            "ticket_also_sold_by": [
+              "Korean Air"
+            ],
+            "extensions": [
+              "Lie flat seat",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 908 kg"
+            ]
+          },
+          {
+            "departure_airport": {
+              "name": "Incheon International Airport",
+              "id": "ICN",
+              "time": "2025-06-25 19:30"
+            },
+            "arrival_airport": {
+              "name": "John F. Kennedy International Airport",
+              "id": "JFK",
+              "time": "2025-06-25 21:00"
+            },
+            "duration": 870,
+            "airplane": "Boeing 777",
+            "airline": "Korean Air",
+            "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/KE.png",
+            "travel_class": "Business Class",
+            "flight_number": "KE 85",
+            "extensions": [
+              "Lie flat seat",
+              "In-seat power & USB outlets",
+              "On-demand video",
+              "Carbon emissions estimate: 3629 kg"
+            ],
+            "overnight": true
+          }
+        ],
+        "layovers": [
+          {
+            "duration": 175,
+            "name": "Incheon International Airport",
+            "id": "ICN"
+          }
+        ],
+        "total_duration": 1290,
+        "carbon_emissions": {
+          "this_flight": 4539000,
+          "typical_for_this_route": 3983000,
+          "difference_percent": 14
+        },
+        "price": 5651,
+        "type": "One way",
+        "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/multi.png",
+        "booking_token": "WyJDalJJTWkweWVHUnpOR3hMWTBsQlFteE1VbEZDUnkwdExTMHRMUzB0YjJ0aVltOHhNRUZCUVVGQlIyZHJXbTlOU2xGTFkwRkJFZ3BXVGpReE5IeExSVGcxR2dzSTFiNGlFQUlhQTFWVFJEZ2NjTlcrSWc9PSIsW1siSEFOIiwiMjAyNS0wNi0yNSIsIklDTiIsbnVsbCwiVk4iLCI0MTQiXSxbIklDTiIsIjIwMjUtMDYtMjUiLCJKRksiLG51bGwsIktFIiwiODUiXV1d"
+      }
+    ]
+  }
+}

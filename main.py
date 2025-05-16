@@ -21,7 +21,7 @@ def fetch_flights_json(outbound_date: str) -> dict:
         "arrival_id":    "JFK,LGA,EWR",        # New York airports :contentReference[oaicite:4]{index=4}
         "outbound_date": outbound_date,        # e.g. "2025-05-14" :contentReference[oaicite:5]{index=5}
         "type":          "2",                  # 2 = one-way :contentReference[oaicite:6]{index=6}
-        "travel_class":  "1",                  # 1 = Economy :contentReference[oaicite:7]{index=7} 2 = premium eco; 3 = business
+        "travel_class":  "3",                  # 1 = Economy :contentReference[oaicite:7]{index=7} 2 = premium eco; 3 = business
         "hl":            "en",                 # UI language :contentReference[oaicite:8]{index=8}
         "gl":            "us",                 # locale :contentReference[oaicite:9]{index=9}
         "currency":      "USD",                # pricing in USD :contentReference[oaicite:10]{index=10}
@@ -38,7 +38,7 @@ def fetch_flights_json(outbound_date: str) -> dict:
         }
     }
 
-def save_to_file(data: dict, filename: str = "flights25-6.json"):
+def save_to_file(data: dict, filename: str = "flights25-6_busi.json"):
     """Write the flights JSON to a file."""
     with open(filename, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)

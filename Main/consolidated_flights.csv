@@ -1,0 +1,300 @@
+travel_date,booking_date,airport,num_connections,airline,airplane,flight_number,overnight,travel_class,price,is_within_budget
+2025-05-14,2025-05-12 21:29:24,HAN,3,Cathay Pacific,Airbus A330,CX 742,No,Business Class,2553.0,No
+2025-05-14,2025-05-12 21:29:24,HKG,3,Cathay Pacific,Boeing 777,CX 880,Yes,Business Class,2553.0,No
+2025-05-14,2025-05-12 21:29:24,LAX,3,American,Airbus A321,AA 1499,No,Economy,2553.0,No
+2025-05-14,2025-05-12 21:29:24,CLT,3,American,Boeing 737,AA 1330,No,First Class,2553.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,1,ANA,Boeing 787,NH 898,Yes,Business Class,2944.0,No
+2025-05-14,2025-05-12 21:29:24,NRT,1,United,Boeing 787,UA 78,Yes,Business Class,2944.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,1,Qatar Airways,Boeing 787,QR 983,No,Business Class,2956.0,No
+2025-05-14,2025-05-12 21:29:24,DOH,1,Qatar Airways,Airbus A350,QR 705,No,Business Class,2956.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,2,JAL,Boeing 767,JL 752,Yes,Business Class,2845.0,No
+2025-05-14,2025-05-12 21:29:24,NRT,2,American,Boeing 777,AA 60,Yes,Business Class,2845.0,No
+2025-05-14,2025-05-12 21:29:24,DFW,2,American,Boeing 737,AA 2708,No,Economy,2845.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,1,Qatar Airways,Boeing 787,QR 977,No,Business Class,2956.0,No
+2025-05-14,2025-05-12 21:29:24,DOH,1,Qatar Airways,Boeing 777,QR 701,No,Business Class,2956.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,2,Emirates,Boeing 777,EK 395,Yes,Business Class,3785.0,No
+2025-05-14,2025-05-12 21:29:24,DXB,2,Emirates,Airbus A380,EK 205,No,Business Class,3785.0,No
+2025-05-14,2025-05-12 21:29:24,MXP,2,Emirates,Airbus A380,EK 205,No,Business Class,3785.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,1,Asiana Airlines,Boeing 777,OZ 730,No,Business Class,4259.0,No
+2025-05-14,2025-05-12 21:29:24,ICN,1,Asiana Airlines,Airbus A350,OZ 224,Yes,Business Class,4259.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Business Class,4311.0,No
+2025-05-14,2025-05-12 21:29:24,HND,1,United,Boeing 777,UA 130,Yes,Business Class,4311.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,1,Emirates,Boeing 777,EK 395,Yes,Business Class,4498.0,No
+2025-05-14,2025-05-12 21:29:24,DXB,1,Emirates,Airbus A380,EK 201,No,Business Class,4498.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,1,EVA Air,Boeing 777,BR 398,No,Business Class,6034.0,No
+2025-05-14,2025-05-12 21:29:24,TPE,1,EVA Air,Boeing 777,BR 32,Yes,Business Class,6034.0,No
+2025-05-14,2025-05-12 21:29:24,HAN,1,Korean Air,Airbus A321neo,KE 442,No,Economy,6496.0,No
+2025-05-14,2025-05-12 21:29:24,ICN,1,Korean Air,Boeing 777,KE 85,Yes,First Class,6496.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,1,Cathay Pacific,Airbus A330,CX 742,No,Economy,660.0,Yes
+2025-05-14,2025-05-11 00:00:00,HKG,1,Cathay Pacific,Boeing 777,CX 830,Yes,Economy,660.0,Yes
+2025-05-14,2025-05-11 00:00:00,HAN,2,Emirates,Boeing 777,EK 395,Yes,Economy,710.0,Yes
+2025-05-14,2025-05-11 00:00:00,DXB,2,Emirates,Airbus A380,EK 205,No,Economy,710.0,Yes
+2025-05-14,2025-05-11 00:00:00,MXP,2,Emirates,Airbus A380,EK 205,No,Economy,710.0,Yes
+2025-05-14,2025-05-11 00:00:00,HAN,2,EVA Air,Airbus A321,BR 386,No,Economy,732.0,Yes
+2025-05-14,2025-05-11 00:00:00,TPE,2,EVA Air,Boeing 787-10,BR 26,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-11 00:00:00,SEA,2,Alaska,Boeing 737,AS 314,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-11 00:00:00,HAN,1,Qatar Airways,Boeing 787,QR 983,No,Economy,802.0,No
+2025-05-14,2025-05-11 00:00:00,DOH,1,Qatar Airways,Boeing 777,QR 703,Yes,Economy,802.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,2,Asiana Airlines,Airbus A330,OZ 734,Yes,Economy,755.0,No
+2025-05-14,2025-05-11 00:00:00,ICN,2,United,Boeing 787,UA 806,Yes,Economy,755.0,No
+2025-05-14,2025-05-11 00:00:00,SFO,2,United,Boeing 787,UA 435,No,Economy,755.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,2,Jeju Air,Boeing 737,7C 2202,Yes,Economy,765.0,No
+2025-05-14,2025-05-11 00:00:00,ICN,2,United,Boeing 787,UA 806,Yes,Economy,765.0,No
+2025-05-14,2025-05-11 00:00:00,SFO,2,United,Boeing 787,UA 435,No,Economy,765.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,1,Turkish Airlines,Airbus A330,TK 165,Yes,Economy,859.0,No
+2025-05-14,2025-05-11 00:00:00,IST,1,Turkish Airlines,Airbus A350,TK 29,No,Economy,859.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,2,ANA,Boeing 787,NH 898,Yes,Economy,889.0,No
+2025-05-14,2025-05-11 00:00:00,NRT,2,Air Canada,Boeing 777,AC 6,Yes,Economy,889.0,No
+2025-05-14,2025-05-11 00:00:00,YUL,2,Air Canada,Embraer 175,AC 8644,No,Economy,889.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,1,Qatar Airways,Boeing 787,QR 977,No,Economy,1042.0,No
+2025-05-14,2025-05-11 00:00:00,DOH,1,Qatar Airways,Boeing 777,QR 703,Yes,Economy,1042.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,1,Emirates,Boeing 777,EK 395,Yes,Economy,1103.0,No
+2025-05-14,2025-05-11 00:00:00,DXB,1,Emirates,Airbus A380,EK 201,No,Economy,1103.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,1,Asiana Airlines,Boeing 777,OZ 730,No,Economy,1162.0,No
+2025-05-14,2025-05-11 00:00:00,ICN,1,Asiana Airlines,Airbus A350,OZ 224,Yes,Economy,1162.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,1,Korean Air,Airbus A321neo,KE 442,No,Economy,1423.0,No
+2025-05-14,2025-05-11 00:00:00,ICN,1,Korean Air,Boeing 777,KE 85,Yes,Economy,1423.0,No
+2025-05-14,2025-05-11 00:00:00,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Economy,2970.0,No
+2025-05-14,2025-05-11 00:00:00,HND,1,United,Boeing 777,UA 130,Yes,Economy,2970.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,1,Cathay Pacific,Airbus A330,CX 742,No,Economy,660.0,Yes
+2025-05-14,2025-05-12 21:29:44,HKG,1,Cathay Pacific,Boeing 777,CX 830,Yes,Economy,660.0,Yes
+2025-05-14,2025-05-12 21:29:44,HAN,2,EVA Air,Airbus A321,BR 386,No,Economy,732.0,Yes
+2025-05-14,2025-05-12 21:29:44,TPE,2,EVA Air,Boeing 787-10,BR 26,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-12 21:29:44,SEA,2,Alaska,Boeing 737,AS 314,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-12 21:29:44,HAN,2,Jeju Air,Boeing 737,7C 2202,Yes,Economy,765.0,No
+2025-05-14,2025-05-12 21:29:44,ICN,2,United,Boeing 787,UA 806,Yes,Economy,765.0,No
+2025-05-14,2025-05-12 21:29:44,SFO,2,United,Boeing 787,UA 435,No,Economy,765.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,2,Emirates,Boeing 777,EK 395,Yes,Economy,847.0,No
+2025-05-14,2025-05-12 21:29:44,DXB,2,Emirates,Airbus A380,EK 205,No,Economy,847.0,No
+2025-05-14,2025-05-12 21:29:44,MXP,2,Emirates,Airbus A380,EK 205,No,Economy,847.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,2,Asiana Airlines,Airbus A330,OZ 734,Yes,Economy,756.0,No
+2025-05-14,2025-05-12 21:29:44,ICN,2,United,Boeing 787,UA 806,Yes,Economy,756.0,No
+2025-05-14,2025-05-12 21:29:44,SFO,2,United,Boeing 787,UA 435,No,Economy,756.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,2,ANA,Boeing 787,NH 898,Yes,Economy,889.0,No
+2025-05-14,2025-05-12 21:29:44,NRT,2,Air Canada,Boeing 777,AC 6,Yes,Economy,889.0,No
+2025-05-14,2025-05-12 21:29:44,YUL,2,Air Canada,Embraer 175,AC 8644,No,Economy,889.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,1,ANA,Boeing 787,NH 898,Yes,Economy,903.0,No
+2025-05-14,2025-05-12 21:29:44,NRT,1,United,Boeing 787,UA 78,Yes,Economy,903.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,2,ANA,Boeing 787,NH 898,Yes,Economy,909.0,No
+2025-05-14,2025-05-12 21:29:44,NRT,2,ANA,Boeing 787,NH 6,Yes,Economy,909.0,No
+2025-05-14,2025-05-12 21:29:44,LAX,2,United,Boeing 787,UA 1855,No,Economy,909.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,2,Korean Air,Boeing 777,KE 454,Yes,Economy,939.0,No
+2025-05-14,2025-05-12 21:29:44,ICN,2,Korean Air,Boeing 777,KE 91,Yes,Economy,939.0,No
+2025-05-14,2025-05-12 21:29:44,BOS,2,Delta,Embraer 175,DL 5829,No,Economy,939.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,1,Korean Air,Boeing 777,KE 454,Yes,Economy,1129.0,No
+2025-05-14,2025-05-12 21:29:44,ICN,1,Korean Air,Airbus A380,KE 81,Yes,Economy,1129.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,1,Asiana Airlines,Boeing 777,OZ 730,No,Economy,1162.0,No
+2025-05-14,2025-05-12 21:29:44,ICN,1,Asiana Airlines,Airbus A350,OZ 224,Yes,Economy,1162.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,1,Korean Air,Airbus A321neo,KE 442,No,Economy,1424.0,No
+2025-05-14,2025-05-12 21:29:44,ICN,1,Korean Air,Boeing 777,KE 85,Yes,Economy,1424.0,No
+2025-05-14,2025-05-12 21:29:44,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Economy,2971.0,No
+2025-05-14,2025-05-12 21:29:44,HND,1,United,Boeing 777,UA 130,Yes,Economy,2971.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,2,JAL,Boeing 767,JL 752,Yes,Business Class,2844.0,No
+2025-05-14,2025-05-11 22:58:53,NRT,2,American,Boeing 777,AA 60,Yes,Business Class,2844.0,No
+2025-05-14,2025-05-11 22:58:53,DFW,2,American,Boeing 737,AA 2708,No,Economy,2844.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,1,JAL,Boeing 767,JL 752,Yes,Business Class,2846.0,No
+2025-05-14,2025-05-11 22:58:53,HND,1,JAL,Airbus A350,JL 6,Yes,Business Class,2846.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,2,STARLUX Airlines,Airbus A321neo,JX 718,No,Business Class,3288.0,No
+2025-05-14,2025-05-11 22:58:53,TPE,2,STARLUX Airlines,Airbus A350,JX 12,Yes,Business Class,3288.0,No
+2025-05-14,2025-05-11 22:58:53,SFO,2,Alaska,Boeing 737,AS 59,Yes,Economy,3288.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,1,Qatar Airways,Boeing 787,QR 983,No,Business Class,3761.0,No
+2025-05-14,2025-05-11 22:58:53,DOH,1,Qatar Airways,Airbus A350,QR 705,No,Business Class,3761.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,1,Asiana Airlines,Airbus A330,OZ 734,Yes,Business Class,4258.0,No
+2025-05-14,2025-05-11 22:58:53,ICN,1,Asiana Airlines,Airbus A350,OZ 222,Yes,Business Class,4258.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,2,STARLUX Airlines,Airbus A321neo,JX 718,No,Business Class,3064.0,No
+2025-05-14,2025-05-11 22:58:53,TPE,2,STARLUX Airlines,Airbus A350,JX 12,Yes,Business Class,3064.0,No
+2025-05-14,2025-05-11 22:58:53,SFO,2,Alaska,Boeing 737,AS 42,No,Economy,3064.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,2,ANA,Boeing 787,NH 898,Yes,Business Class,3497.0,No
+2025-05-14,2025-05-11 22:58:53,NRT,2,United,Boeing 787,UA 142,Yes,Business Class,3497.0,No
+2025-05-14,2025-05-11 22:58:53,DEN,2,United,Boeing 757,UA 731,No,First Class,3497.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,2,ANA,Boeing 787,NH 898,Yes,Business Class,3663.0,No
+2025-05-14,2025-05-11 22:58:53,NRT,2,United,Boeing 787,UA 33,Yes,Business Class,3663.0,No
+2025-05-14,2025-05-11 22:58:53,LAX,2,United,Boeing 787,UA 1855,No,Business Class,3663.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,2,ANA,Boeing 787,NH 898,Yes,Business Class,3679.0,No
+2025-05-14,2025-05-11 22:58:53,NRT,2,ANA,Boeing 787,NH 6,Yes,Business Class,3679.0,No
+2025-05-14,2025-05-11 22:58:53,LAX,2,United,Boeing 787,UA 1855,No,Business Class,3679.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Business Class,4310.0,No
+2025-05-14,2025-05-11 22:58:53,HND,1,United,Boeing 777,UA 130,Yes,Business Class,4310.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,1,ANA,Boeing 787,NH 898,Yes,Business Class,4495.0,No
+2025-05-14,2025-05-11 22:58:53,HND,1,ANA,Boeing 777,NH 110,Yes,Business Class,4495.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,1,EVA Air,Boeing 777,BR 398,No,Business Class,6032.0,No
+2025-05-14,2025-05-11 22:58:53,TPE,1,EVA Air,Boeing 777,BR 32,Yes,Business Class,6032.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,1,Vietnam Airlines,Airbus A321,VN 592,No,Economy,6891.0,No
+2025-05-14,2025-05-11 22:58:53,HKG,1,Cathay Pacific,Airbus A350,CX 840,Yes,Business Class,6891.0,No
+2025-05-14,2025-05-11 22:58:53,HAN,1,Vietnam Airlines,Boeing 787,VN 416,Yes,Business Class,8325.0,No
+2025-05-14,2025-05-11 22:58:53,ICN,1,Korean Air,Airbus A380,KE 81,Yes,First Class,8325.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,2,Emirates,Boeing 777,EK 395,Yes,Economy,710.0,Yes
+2025-05-14,2025-05-11 14:33:32,DXB,2,Emirates,Airbus A380,EK 205,No,Economy,710.0,Yes
+2025-05-14,2025-05-11 14:33:32,MXP,2,Emirates,Airbus A380,EK 205,No,Economy,710.0,Yes
+2025-05-14,2025-05-11 14:33:32,HAN,1,Qatar Airways,Boeing 787,QR 983,No,Economy,723.0,Yes
+2025-05-14,2025-05-11 14:33:32,DOH,1,Qatar Airways,Airbus A350,QR 705,No,Economy,723.0,Yes
+2025-05-14,2025-05-11 14:33:32,HAN,2,EVA Air,Airbus A321,BR 386,No,Economy,732.0,Yes
+2025-05-14,2025-05-11 14:33:32,TPE,2,EVA Air,Boeing 787-10,BR 26,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-11 14:33:32,SEA,2,Alaska,Boeing 737,AS 314,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-11 14:33:32,HAN,1,Cathay Pacific,Airbus A330,CX 742,No,Economy,826.0,No
+2025-05-14,2025-05-11 14:33:32,HKG,1,Cathay Pacific,Boeing 777,CX 830,Yes,Economy,826.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,2,Asiana Airlines,Airbus A330,OZ 734,Yes,Economy,755.0,No
+2025-05-14,2025-05-11 14:33:32,ICN,2,United,Boeing 787,UA 806,Yes,Economy,755.0,No
+2025-05-14,2025-05-11 14:33:32,SFO,2,United,Boeing 787,UA 435,No,Economy,755.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,2,Jeju Air,Boeing 737,7C 2202,Yes,Economy,765.0,No
+2025-05-14,2025-05-11 14:33:32,ICN,2,United,Boeing 787,UA 806,Yes,Economy,765.0,No
+2025-05-14,2025-05-11 14:33:32,SFO,2,United,Boeing 787,UA 435,No,Economy,765.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,1,China Airlines,Airbus A321neo,CI 794,No,Economy,873.0,No
+2025-05-14,2025-05-11 14:33:32,TPE,1,China Airlines,Boeing 777,CI 12,Yes,Economy,873.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,2,ANA,Boeing 787,NH 898,Yes,Economy,889.0,No
+2025-05-14,2025-05-11 14:33:32,NRT,2,Air Canada,Boeing 777,AC 6,Yes,Economy,889.0,No
+2025-05-14,2025-05-11 14:33:32,YUL,2,Air Canada,Embraer 175,AC 8644,No,Economy,889.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,1,Qatar Airways,Boeing 787,QR 977,No,Economy,1024.0,No
+2025-05-14,2025-05-11 14:33:32,DOH,1,Qatar Airways,Boeing 777,QR 703,Yes,Economy,1024.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,1,Emirates,Boeing 777,EK 395,Yes,Economy,1103.0,No
+2025-05-14,2025-05-11 14:33:32,DXB,1,Emirates,Airbus A380,EK 201,No,Economy,1103.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,1,Asiana Airlines,Boeing 777,OZ 730,No,Economy,1162.0,No
+2025-05-14,2025-05-11 14:33:32,ICN,1,Asiana Airlines,Airbus A350,OZ 224,Yes,Economy,1162.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,1,Korean Air,Airbus A321neo,KE 442,No,Economy,1423.0,No
+2025-05-14,2025-05-11 14:33:32,ICN,1,Korean Air,Boeing 777,KE 85,Yes,Economy,1423.0,No
+2025-05-14,2025-05-11 14:33:32,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Economy,2970.0,No
+2025-05-14,2025-05-11 14:33:32,HND,1,United,Boeing 777,UA 130,Yes,Economy,2970.0,No
+2025-05-14,2025-05-12 09:10:49,HAN,1,JAL,Boeing 767,JL 752,Yes,Economy,651.0,Yes
+2025-05-14,2025-05-12 09:10:49,HND,1,JAL,Airbus A350,JL 6,Yes,Economy,651.0,Yes
+2025-05-14,2025-05-12 09:10:49,HAN,1,Cathay Pacific,Airbus A330,CX 742,No,Economy,661.0,Yes
+2025-05-14,2025-05-12 09:10:49,HKG,1,Cathay Pacific,Boeing 777,CX 830,Yes,Economy,661.0,Yes
+2025-05-14,2025-05-12 09:10:49,HAN,1,Qatar Airways,Boeing 787,QR 977,No,Economy,723.0,Yes
+2025-05-14,2025-05-12 09:10:49,DOH,1,Qatar Airways,Boeing 777,QR 703,Yes,Economy,723.0,Yes
+2025-05-14,2025-05-12 09:10:49,HAN,1,Qatar Airways,Boeing 787,QR 983,No,Economy,723.0,Yes
+2025-05-14,2025-05-12 09:10:49,DOH,1,Qatar Airways,Airbus A350,QR 705,No,Economy,723.0,Yes
+2025-05-14,2025-05-12 09:10:49,HAN,2,EVA Air,Airbus A321,BR 386,No,Economy,732.0,Yes
+2025-05-14,2025-05-12 09:10:49,TPE,2,EVA Air,Boeing 787-10,BR 26,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-12 09:10:49,SEA,2,Alaska,Boeing 737,AS 314,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-12 09:10:49,HAN,2,Asiana Airlines,Airbus A330,OZ 734,Yes,Economy,756.0,No
+2025-05-14,2025-05-12 09:10:49,ICN,2,United,Boeing 787,UA 806,Yes,Economy,756.0,No
+2025-05-14,2025-05-12 09:10:49,SFO,2,United,Boeing 787,UA 435,No,Economy,756.0,No
+2025-05-14,2025-05-12 09:10:49,HAN,2,Jeju Air,Boeing 737,7C 2202,Yes,Economy,765.0,No
+2025-05-14,2025-05-12 09:10:49,ICN,2,United,Boeing 787,UA 806,Yes,Economy,765.0,No
+2025-05-14,2025-05-12 09:10:49,SFO,2,United,Boeing 787,UA 435,No,Economy,765.0,No
+2025-05-14,2025-05-12 09:10:49,HAN,2,Emirates,Boeing 777,EK 395,Yes,Economy,773.0,No
+2025-05-14,2025-05-12 09:10:49,DXB,2,Emirates,Airbus A380,EK 205,No,Economy,773.0,No
+2025-05-14,2025-05-12 09:10:49,MXP,2,Emirates,Airbus A380,EK 205,No,Economy,773.0,No
+2025-05-14,2025-05-12 09:10:49,HAN,2,ANA,Boeing 787,NH 898,Yes,Economy,890.0,No
+2025-05-14,2025-05-12 09:10:49,NRT,2,Air Canada,Boeing 777,AC 6,Yes,Economy,890.0,No
+2025-05-14,2025-05-12 09:10:49,YUL,2,Air Canada,Embraer 175,AC 8644,No,Economy,890.0,No
+2025-05-14,2025-05-12 09:10:49,HAN,1,Asiana Airlines,Boeing 777,OZ 730,No,Economy,1162.0,No
+2025-05-14,2025-05-12 09:10:49,ICN,1,Asiana Airlines,Airbus A350,OZ 224,Yes,Economy,1162.0,No
+2025-05-14,2025-05-12 09:10:49,HAN,1,Korean Air,Airbus A321neo,KE 442,No,Economy,1424.0,No
+2025-05-14,2025-05-12 09:10:49,ICN,1,Korean Air,Boeing 777,KE 85,Yes,Economy,1424.0,No
+2025-05-14,2025-05-12 09:10:49,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Economy,2972.0,No
+2025-05-14,2025-05-12 09:10:49,HND,1,United,Boeing 777,UA 130,Yes,Economy,2972.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,1,JAL,Boeing 767,JL 752,Yes,Economy,651.0,Yes
+2025-05-14,2025-05-13 09:16:32,HND,1,JAL,Airbus A350,JL 6,Yes,Economy,651.0,Yes
+2025-05-14,2025-05-13 09:16:32,HAN,2,EVA Air,Airbus A321,BR 386,No,Economy,732.0,Yes
+2025-05-14,2025-05-13 09:16:32,TPE,2,EVA Air,Boeing 787-10,BR 26,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-13 09:16:32,SEA,2,Alaska,Boeing 737,AS 314,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-13 09:16:32,HAN,2,Jeju Air,Boeing 737,7C 2202,Yes,Economy,765.0,No
+2025-05-14,2025-05-13 09:16:32,ICN,2,United,Boeing 787,UA 806,Yes,Economy,765.0,No
+2025-05-14,2025-05-13 09:16:32,SFO,2,United,Boeing 787,UA 435,No,Economy,765.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,2,Emirates,Boeing 777,EK 395,Yes,Economy,847.0,No
+2025-05-14,2025-05-13 09:16:32,DXB,2,Emirates,Airbus A380,EK 205,No,Economy,847.0,No
+2025-05-14,2025-05-13 09:16:32,MXP,2,Emirates,Airbus A380,EK 205,No,Economy,847.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,2,China Airlines,Airbus A321neo,CI 794,No,Economy,744.0,Yes
+2025-05-14,2025-05-13 09:16:32,TPE,2,China Airlines,Boeing 777,CI 4,Yes,Economy,744.0,Yes
+2025-05-14,2025-05-13 09:16:32,SFO,2,Alaska,Boeing 737,AS 292,No,Economy,744.0,Yes
+2025-05-14,2025-05-13 09:16:32,HAN,2,Asiana Airlines,Airbus A330,OZ 734,Yes,Economy,756.0,No
+2025-05-14,2025-05-13 09:16:32,ICN,2,United,Boeing 787,UA 806,Yes,Economy,756.0,No
+2025-05-14,2025-05-13 09:16:32,SFO,2,United,Boeing 787,UA 435,No,Economy,756.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,2,ANA,Boeing 787,NH 898,Yes,Economy,889.0,No
+2025-05-14,2025-05-13 09:16:32,NRT,2,Air Canada,Boeing 777,AC 6,Yes,Economy,889.0,No
+2025-05-14,2025-05-13 09:16:32,YUL,2,Air Canada,Embraer 175,AC 8646,No,Economy,889.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,1,ANA,Boeing 787,NH 898,Yes,Economy,903.0,No
+2025-05-14,2025-05-13 09:16:32,NRT,1,United,Boeing 787,UA 78,Yes,Economy,903.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,2,Korean Air,Boeing 777,KE 454,Yes,Economy,939.0,No
+2025-05-14,2025-05-13 09:16:32,ICN,2,Korean Air,Boeing 777,KE 91,Yes,Economy,939.0,No
+2025-05-14,2025-05-13 09:16:32,BOS,2,Delta,Embraer 175,DL 5829,No,Economy,939.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,1,Emirates,Boeing 777,EK 395,Yes,Economy,1103.0,No
+2025-05-14,2025-05-13 09:16:32,DXB,1,Emirates,Airbus A380,EK 201,No,Economy,1103.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,1,Asiana Airlines,Boeing 777,OZ 730,No,Economy,1162.0,No
+2025-05-14,2025-05-13 09:16:32,ICN,1,Asiana Airlines,Airbus A350,OZ 224,Yes,Economy,1162.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,1,Korean Air,Airbus A321neo,KE 442,No,Economy,1424.0,No
+2025-05-14,2025-05-13 09:16:32,ICN,1,Korean Air,Boeing 777,KE 85,Yes,Economy,1424.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Economy,2971.0,No
+2025-05-14,2025-05-13 09:16:32,HND,1,United,Boeing 777,UA 130,Yes,Economy,2971.0,No
+2025-05-14,2025-05-13 09:16:32,HAN,1,Air China,Airbus A321neo,CA 742,No,Economy,,No
+2025-05-14,2025-05-13 09:16:32,PEK,1,Air China,Boeing 747,CA 981,Yes,Economy,,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,ANA,Boeing 787,NH 898,Yes,Business Class,2944.0,No
+2025-05-14,2025-05-13 09:16:53,NRT,1,United,Boeing 787,UA 78,Yes,Business Class,2944.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,Qatar Airways,Boeing 787,QR 983,No,Business Class,2956.0,No
+2025-05-14,2025-05-13 09:16:53,DOH,1,Qatar Airways,Airbus A350,QR 705,No,Business Class,2956.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,Qatar Airways,Boeing 787,QR 977,No,Business Class,2956.0,No
+2025-05-14,2025-05-13 09:16:53,DOH,1,Qatar Airways,Boeing 777,QR 703,Yes,Business Class,2956.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,2,ANA,Boeing 787,NH 898,Yes,Business Class,2950.0,No
+2025-05-14,2025-05-13 09:16:53,NRT,2,United,Boeing 787,UA 142,Yes,Business Class,2950.0,No
+2025-05-14,2025-05-13 09:16:53,DEN,2,United,Boeing 737,UA 1004,No,First Class,2950.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,2,Emirates,Boeing 777,EK 395,Yes,Business Class,3786.0,No
+2025-05-14,2025-05-13 09:16:53,DXB,2,Emirates,Airbus A380,EK 205,No,Business Class,3786.0,No
+2025-05-14,2025-05-13 09:16:53,MXP,2,Emirates,Airbus A380,EK 205,No,Business Class,3786.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,Asiana Airlines,Boeing 777,OZ 730,No,Business Class,4260.0,No
+2025-05-14,2025-05-13 09:16:53,ICN,1,Asiana Airlines,Airbus A350,OZ 224,Yes,Business Class,4260.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Business Class,4311.0,No
+2025-05-14,2025-05-13 09:16:53,HND,1,United,Boeing 777,UA 130,Yes,Business Class,4311.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,ANA,Boeing 787,NH 898,Yes,Business Class,4497.0,No
+2025-05-14,2025-05-13 09:16:53,HND,1,ANA,Boeing 777,NH 110,Yes,Business Class,4497.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,Emirates,Boeing 777,EK 395,Yes,Business Class,4498.0,No
+2025-05-14,2025-05-13 09:16:53,DXB,1,Emirates,Airbus A380,EK 201,No,Business Class,4498.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,EVA Air,Boeing 777,BR 398,No,Business Class,6034.0,No
+2025-05-14,2025-05-13 09:16:53,TPE,1,EVA Air,Boeing 777,BR 32,Yes,Business Class,6034.0,No
+2025-05-14,2025-05-13 09:16:53,HAN,1,Vietnam Airlines,Airbus A321,VN 592,No,Economy,6893.0,No
+2025-05-14,2025-05-13 09:16:53,HKG,1,Cathay Pacific,Airbus A350,CX 840,Yes,Business Class,6893.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,JAL,Boeing 767,JL 752,Yes,Business Class,2847.0,No
+2025-05-14,2025-05-12 09:11:12,HND,1,JAL,Airbus A350,JL 6,Yes,Business Class,2847.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,ANA,Boeing 787,NH 898,Yes,Business Class,2945.0,No
+2025-05-14,2025-05-12 09:11:12,NRT,1,United,Boeing 787,UA 78,Yes,Business Class,2945.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,Qatar Airways,Boeing 787,QR 983,No,Business Class,2957.0,No
+2025-05-14,2025-05-12 09:11:12,DOH,1,Qatar Airways,Airbus A350,QR 705,No,Business Class,2957.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,Qatar Airways,Boeing 787,QR 977,No,Business Class,2957.0,No
+2025-05-14,2025-05-12 09:11:12,DOH,1,Qatar Airways,Boeing 777,QR 703,Yes,Business Class,2957.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,Asiana Airlines,Airbus A330,OZ 734,Yes,Business Class,4260.0,No
+2025-05-14,2025-05-12 09:11:12,ICN,1,Asiana Airlines,Airbus A350,OZ 222,Yes,Business Class,4260.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,ANA,Boeing 787,NH 898,Yes,Business Class,3984.0,No
+2025-05-14,2025-05-12 09:11:12,HND,1,ANA,Boeing 777,NH 110,Yes,Business Class,3984.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,2,Philippine Airlines,Airbus A321,PR 596,Yes,Business Class,4046.0,No
+2025-05-14,2025-05-12 09:11:12,MNL,2,Philippine Airlines,Boeing 777,PR 118,Yes,Business Class,4046.0,No
+2025-05-14,2025-05-12 09:11:12,YYZ,2,Air Canada,Airbus A320,AC 700,No,Business Class,4046.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Business Class,4312.0,No
+2025-05-14,2025-05-12 09:11:12,HND,1,United,Boeing 777,UA 130,Yes,Business Class,4312.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,Hong Kong Express,Airbus A321neo,UO 551,No,Economy,4733.0,No
+2025-05-14,2025-05-12 09:11:12,HKG,1,Cathay Pacific,Airbus A350,CX 840,Yes,Business Class,4733.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,EVA Air,Boeing 777,BR 398,No,Business Class,6035.0,No
+2025-05-14,2025-05-12 09:11:12,TPE,1,EVA Air,Boeing 777,BR 32,Yes,Business Class,6035.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,Vietnam Airlines,Airbus A321,VN 592,No,Economy,6894.0,No
+2025-05-14,2025-05-12 09:11:12,HKG,1,Cathay Pacific,Airbus A350,CX 840,Yes,Business Class,6894.0,No
+2025-05-14,2025-05-12 09:11:12,HAN,1,Vietnam Airlines,Boeing 787,VN 416,Yes,Business Class,8330.0,No
+2025-05-14,2025-05-12 09:11:12,ICN,1,Korean Air,Airbus A380,KE 81,Yes,First Class,8330.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,1,Qatar Airways,Boeing 787,QR 983,No,Economy,723.0,Yes
+2025-05-14,2025-05-11 22:57:47,DOH,1,Qatar Airways,Airbus A350,QR 705,No,Economy,723.0,Yes
+2025-05-14,2025-05-11 22:57:47,HAN,2,EVA Air,Airbus A321,BR 386,No,Economy,732.0,Yes
+2025-05-14,2025-05-11 22:57:47,TPE,2,EVA Air,Boeing 787-10,BR 26,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-11 22:57:47,SEA,2,Alaska,Boeing 737,AS 314,Yes,Economy,732.0,Yes
+2025-05-14,2025-05-11 22:57:47,HAN,2,Emirates,Boeing 777,EK 395,Yes,Economy,773.0,No
+2025-05-14,2025-05-11 22:57:47,DXB,2,Emirates,Airbus A380,EK 205,No,Economy,773.0,No
+2025-05-14,2025-05-11 22:57:47,MXP,2,Emirates,Airbus A380,EK 205,No,Economy,773.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,1,Cathay Pacific,Airbus A330,CX 742,No,Economy,826.0,No
+2025-05-14,2025-05-11 22:57:47,HKG,1,Cathay Pacific,Boeing 777,CX 830,Yes,Economy,826.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,2,Asiana Airlines,Airbus A330,OZ 734,Yes,Economy,755.0,No
+2025-05-14,2025-05-11 22:57:47,ICN,2,United,Boeing 787,UA 806,Yes,Economy,755.0,No
+2025-05-14,2025-05-11 22:57:47,SFO,2,United,Boeing 787,UA 435,No,Economy,755.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,2,Jeju Air,Boeing 737,7C 2202,Yes,Economy,765.0,No
+2025-05-14,2025-05-11 22:57:47,ICN,2,United,Boeing 787,UA 806,Yes,Economy,765.0,No
+2025-05-14,2025-05-11 22:57:47,SFO,2,United,Boeing 787,UA 435,No,Economy,765.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,1,China Airlines,Airbus A321neo,CI 794,No,Economy,873.0,No
+2025-05-14,2025-05-11 22:57:47,TPE,1,China Airlines,Boeing 777,CI 12,Yes,Economy,873.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,2,ANA,Boeing 787,NH 898,Yes,Economy,889.0,No
+2025-05-14,2025-05-11 22:57:47,NRT,2,Air Canada,Boeing 777,AC 6,Yes,Economy,889.0,No
+2025-05-14,2025-05-11 22:57:47,YUL,2,Air Canada,Embraer 175,AC 8644,No,Economy,889.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,1,Qatar Airways,Boeing 787,QR 977,No,Economy,1042.0,No
+2025-05-14,2025-05-11 22:57:47,DOH,1,Qatar Airways,Boeing 777,QR 703,Yes,Economy,1042.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,1,Emirates,Boeing 777,EK 395,Yes,Economy,1103.0,No
+2025-05-14,2025-05-11 22:57:47,DXB,1,Emirates,Airbus A380,EK 201,No,Economy,1103.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,1,Asiana Airlines,Boeing 777,OZ 730,No,Economy,1162.0,No
+2025-05-14,2025-05-11 22:57:47,ICN,1,Asiana Airlines,Airbus A350,OZ 224,Yes,Economy,1162.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,1,Korean Air,Airbus A321neo,KE 442,No,Economy,1423.0,No
+2025-05-14,2025-05-11 22:57:47,ICN,1,Korean Air,Boeing 777,KE 85,Yes,Economy,1423.0,No
+2025-05-14,2025-05-11 22:57:47,HAN,1,Vietnam Airlines,Boeing 787,VN 384,No,Economy,2970.0,No
+2025-05-14,2025-05-11 22:57:47,HND,1,United,Boeing 777,UA 130,Yes,Economy,2970.0,No

@@ -32,27 +32,27 @@ for filepath in glob.glob(os.path.join(data_dir, '*.json')):
             # Core numeric features
             rec['price'] = itin.get('price')
             rec['total_duration'] = itin.get('total_duration')
-            rec['n_legs'] = len(itin['flights'])
+            # rec['n_legs'] = len(itin['flights'])
             rec['n_stops'] = len(itin.get('layovers', []))
             
             # Average legroom
-            legrooms = []
-            for leg in itin['flights']:
-                lr = leg.get('legroom')
-                if isinstance(lr, str):
-                    # Strip non-numeric characters
-                    val = ''.join(ch for ch in lr if ch.isdigit() or ch == '.')
-                    if val:
-                        legrooms.append(float(val))
-                elif isinstance(lr, (int, float)):
-                    legrooms.append(float(lr))
-            rec['avg_legroom'] = sum(legrooms) / len(legrooms) if legrooms else None
+            # legrooms = []
+            # for leg in itin['flights']:
+            #     lr = leg.get('legroom')
+            #     if isinstance(lr, str):
+            #         # Strip non-numeric characters
+            #         val = ''.join(ch for ch in lr if ch.isdigit() or ch == '.')
+            #         if val:
+            #             legrooms.append(float(val))
+            #     elif isinstance(lr, (int, float)):
+            #         legrooms.append(float(lr))
+            # rec['avg_legroom'] = sum(legrooms) / len(legrooms) if legrooms else None
             
             # Carbon emissions
             ce = itin.get('carbon_emissions', {})
             rec['carbon_this'] = ce.get('this_flight')
-            rec['carbon_route_typ'] = ce.get('typical_for_this_route')
-            rec['carbon_diff_pct'] = ce.get('difference_percent')
+            # rec['carbon_route_typ'] = ce.get('typical_for_this_route')
+            # rec['carbon_diff_pct'] = ce.get('difference_percent')
             
             # Delay flag
             rec['delayed_any'] = any(leg.get('often_delayed_by_over_30_min', False) for leg in itin['flights'])
@@ -65,9 +65,9 @@ for filepath in glob.glob(os.path.join(data_dir, '*.json')):
             rec['days_to_departure'] = (
                 pd.to_datetime(travel_date) - pd.to_datetime(booking_date)
             ).days
-            rec['price_per_minute'] = rec['price'] / rec['total_duration'] if rec['total_duration'] else None
-            rec['price_per_leg'] = rec['price'] / rec['n_legs'] if rec['n_legs'] else None
-            rec['is_direct'] = 1 if rec['n_stops'] == 0 else 0
+            # rec['price_per_minute'] = rec['price'] / rec['total_duration'] if rec['total_duration'] else None
+            # rec['price_per_leg'] = rec['price'] / rec['n_legs'] if rec['n_legs'] else None
+            # rec['is_direct'] = 1 if rec['n_stops'] == 0 else 0
             rec['avg_stop_duration'] = (
                 rec['layover_total_duration'] / rec['n_stops'] if rec['n_stops'] else 0
             )
